@@ -4,6 +4,10 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MyFragment.iml" filepath="$PROJECT_DIR$/MyFragment.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fragmentqiantaofragment/fragmentqiantaofragment.iml" filepath="$PROJECT_DIR$/fragmentqiantaofragment/fragmentqiantaofragment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myrecycle/myrecycle.iml" filepath="$PROJECT_DIR$/myrecycle/myrecycle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myrecycleview/myrecycleview.iml" filepath="$PROJECT_DIR$/myrecycleview/myrecycleview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myxbaner/myxbaner.iml" filepath="$PROJECT_DIR$/myxbaner/myxbaner.iml" />
       <module fileurl="file://$PROJECT_DIR$/springview/springview.iml" filepath="$PROJECT_DIR$/springview/springview.iml" />
     </modules>
   </component>

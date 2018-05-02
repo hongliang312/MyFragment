@@ -9,6 +9,10 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/fragmentqiantaofragment" />
+            <option value="$PROJECT_DIR$/myrecycle" />
+            <option value="$PROJECT_DIR$/myrecycleview" />
+            <option value="$PROJECT_DIR$/myxbaner" />
             <option value="$PROJECT_DIR$/springview" />
           </set>
         </option>

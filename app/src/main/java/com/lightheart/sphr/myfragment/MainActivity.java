@@ -53,7 +53,6 @@ public class MainActivity extends AppCompatActivity  implements View.OnClickList
         }
     }
 
-
     /**
      * 切换Fragment
      */
